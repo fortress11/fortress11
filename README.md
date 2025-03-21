@@ -1,8 +1,7 @@
 # Welcome to my Github Page
-- 👋 Hi, I’m **Akomolafe Fortress. O @fortress11**
-- 👀 I’m interested in **Data Analysis**
-- 🌱 I’m currently learning **Data Analysis with tools like Tableau, Microsoft Excel and POSTGRESQL**
-- 💞️ I’m looking to collaborate on **Data analysis jobs and projects that allow me to apply my skills and expertise to help organizations and companies**
+- 👋 Hi, I’m **Akomolafe Fortress. O (@fortress11)**
+- 👀 I’m passionate about data analysis and currently developing my expertise in tools such as Tableau, Microsoft Excel, and PostgreSQL.
+- I am eager to collaborate on data-driven projects where I can apply my skills to generate insights and support business decision-making.
 - 📫 How to reach me **fortressoluwadamisi@gmail.com**
 - 😄 Pronouns:**she/her**
 - ⚡ Fun fact:*I love memes*
